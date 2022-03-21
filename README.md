@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Collins Peter</h1>
+<h1 align="center">Hi 👋, I'm Peter Collins</h1>
 <h3 align="center">Javascript/React/Node.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscolldev&label=Profile%20views&color=0e75b6&style=flat" alt="jscolldev" /> </p>
